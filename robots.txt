@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousenhain.github.io/sitemap
+Sitemap: https://ousenhain.github.io/app/sitemap
+Sitemap: https://ousenhain.github.io/assets/sitemap
+Sitemap: https://ousenhain.github.io/css/sitemap
+Sitemap: https://ousenhain.github.io/includes/sitemap
+Sitemap: https://ousenhain.github.io/item/sitemap
+Sitemap: https://ousenhain.github.io/src/sitemap
